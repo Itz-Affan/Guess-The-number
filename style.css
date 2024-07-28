@@ -1,0 +1,49 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+body {
+    background-color: #DBF4AD
+}
+
+
+.heading {
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #A9E190;
+}
+
+.input {
+    height: 2.5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.5vh;
+}
+ol {
+    margin-left: 5vw;
+}
+
+button {
+    background-color: #CDC776;
+    width: 7vw;
+    color: white;
+}
+
+.res {
+    height: 10vh;
+    margin-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.res p {
+    font-size: large;
+}
