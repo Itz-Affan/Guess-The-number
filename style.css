@@ -23,8 +23,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 1.5vh;
-    width: 2vw;  
+    margin-top: 1.5vh; 
 }
 ol {
     margin-left: 5vw;
